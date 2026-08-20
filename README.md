@@ -160,3 +160,5 @@ Crie um arquivo `.py` para cada desafio. Resolva sozinho antes de pedir ajuda.
 ---
 
 *Consistência > Intensidade. Um desafio por dia já te leva longe.*
+
+Registro do Dia 3: prática de branches, diff e merge.
