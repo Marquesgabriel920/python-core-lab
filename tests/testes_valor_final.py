@@ -1,7 +1,8 @@
 from challenges.desafio_18 import calcular_valor_final
 
 
-
+resultado_teste_1 = calcular_valor_final(100, 10)
+assert resultado_teste_1 == 90.0
 
 print("Teste 1 aprovado")
 
