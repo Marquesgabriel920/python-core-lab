@@ -1,3 +1,16 @@
+# Desafio 03 — busca e resumo de agendamentos
+#
+# Crie uma lista de dicionários com cliente, serviço, status e valor.
+#
+# O programa deve:
+# - solicitar o nome de um cliente;
+# - buscar o cliente na lista;
+# - exibir seus dados se for encontrado;
+# - informar caso não seja encontrado;
+# - contar os agendamentos confirmados;
+# - calcular o valor total dos agendamentos confirmados.
+
+
 
 agendamentos= [
     {"cliente": "Gabriel", "serviço": "Corte", "status": "Confirmado", "valor": 40.00},
