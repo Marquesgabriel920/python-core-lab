@@ -1,0 +1,26 @@
+[
+    {
+        "cliente": "Gabriel",
+        "serviço": "Corte",
+        "status": "Confirmado",
+        "valor": 40.0
+    },
+    {
+        "cliente": "Joao",
+        "serviço": "Barba",
+        "status": "Confirmado",
+        "valor": 25.0
+    },
+    {
+        "cliente": "Marcos",
+        "serviço": "Sobrancelha",
+        "status": "Cancelado",
+        "valor": 15.0
+    },
+    {
+        "cliente": "Ana",
+        "serviço": "Corte",
+        "status": "Confirmado",
+        "valor": 30.0
+    }
+]
