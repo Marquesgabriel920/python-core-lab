@@ -10,6 +10,20 @@ Ao longo do projeto, são praticados conceitos como lógica de programação, li
 
 O projeto também registra minha evolução na organização de código e no uso do Git, servindo como evidência prática do meu aprendizado para futuras oportunidades profissionais.
 
+## Configuração do ambiente
+
+A partir da raiz do projeto, execute no PowerShell:
+
+```powershell
+python -m venv .venv
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned
+.\.venv\Scripts\Activate.ps1
+python --version
+python -m pip --version
+```
+
+Com o ambiente ativo, execute os desafios e os testes conforme as instruções deste README.
+
 ## Estrutura do projeto
 
 - `challenges/`: desafios práticos de Python e lógica de programação.
